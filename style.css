@@ -61,6 +61,10 @@ a {
     color: #333;
 }
 
+.post-item .post-meta {
+    color: #333;
+}
+
 .first-post {
     border-bottom: 1px solid #ccc;
 }
