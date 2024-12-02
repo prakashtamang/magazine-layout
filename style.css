@@ -90,12 +90,19 @@ a {
     font-weight: 400;
 }
 
-.trending-post {
+.trending-article {
     display: flex;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #efefef;
 }
 
-.trending-title{
-    flex: 2;
+.trending-post{
+    flex: 3;
+}
+
+.trending-title a {
+    color: #333;
 }
 
 .trending-img{
